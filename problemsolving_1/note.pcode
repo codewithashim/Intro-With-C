@@ -1,0 +1,12 @@
+if "10000"
+    print response
+        "I am case 1"
+    else if "20000"
+        print response
+             "I am case 2"
+else if "5000"
+    print response
+        "I am case 3"
+else "200"
+    print response
+    "I am case 4"
